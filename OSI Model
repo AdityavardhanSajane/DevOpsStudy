@@ -1,6 +1,6 @@
 The OSI model is a way to understand how different parts of computer networks communicate. Think of it like a layered cake, where each layer has its own job. Here’s a simple breakdown of each layer:
 
-<b>Physical Layer</b>: This is the bottom layer, and it deals with the actual hardware and physical connections. Imagine it as the wires and cables that connect your computer to the internet.
+Physical Layer: This is the bottom layer, and it deals with the actual hardware and physical connections. Imagine it as the wires and cables that connect your computer to the internet.
 
 Data Link Layer: This layer makes sure data is transferred correctly between two devices on the same network. It’s like ensuring that your letter is delivered to the right mailbox.
 
