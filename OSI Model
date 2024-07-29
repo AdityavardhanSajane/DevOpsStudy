@@ -1,0 +1,17 @@
+The OSI model is a way to understand how different parts of computer networks communicate. Think of it like a layered cake, where each layer has its own job. Here’s a simple breakdown of each layer:
+
+<b>Physical Layer</b>: This is the bottom layer, and it deals with the actual hardware and physical connections. Imagine it as the wires and cables that connect your computer to the internet.
+
+Data Link Layer: This layer makes sure data is transferred correctly between two devices on the same network. It’s like ensuring that your letter is delivered to the right mailbox.
+
+Network Layer: This layer handles finding the best path for data to travel from your computer to another computer on a different network. It’s like planning the best route for a road trip.
+
+Transport Layer: This layer ensures that the data sent from your computer arrives correctly and in order. It’s like making sure your package arrives intact and in the right sequence.
+
+Session Layer: This layer manages the connection between two devices and keeps track of conversations. It’s like having a phone call where both parties can talk and listen.
+
+Presentation Layer: This layer translates the data into a format that the application layer can use. It’s like translating a letter into a language that makes sense to the person reading it.
+
+Application Layer: This is the top layer where the actual applications and services interact with the network. It’s like the software on your computer that uses the network, such as your web browser or email client.
+
+Each layer of the OSI model only deals with its own part of the communication process and relies on the layers below it. This separation helps in understanding and troubleshooting network issues.
