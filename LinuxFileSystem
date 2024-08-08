@@ -1,0 +1,35 @@
+Root Directory (/):
+
+Definition: This is the top-level directory of your filesystem. All other directories and files are organized under this directory.
+Example in Your Structure: /afs, /boot, /home, /lib, /root, etc., are all directories directly under the root directory /.
+Root User (root):
+
+Definition: The root user is the system administrator with full control over the system. This user can access and modify any files and directories.
+Role: The root user can navigate to any of the directories listed, including /root, /home, /var, etc.
+Home Directory for Root User (/root):
+
+Definition: This is the personal directory for the root user where the root user’s personal files and configurations are stored.
+Example in Your Structure: /root is a directory specifically for the root user. It’s different from the root directory /.
+Here’s a quick overview of the other directories in your list:
+
+/bin: Contains essential command binaries (e.g., ls, cp).
+/boot: Contains files needed for booting the system (e.g., kernel images).
+/dev: Contains device files (e.g., hard drives, terminals).
+/etc: Contains configuration files for the system and applications.
+/home: Contains user directories for regular users (e.g., /home/john).
+/lib: Contains shared libraries needed for system programs.
+/media: Mount point for removable media (e.g., USB drives).
+/mnt: Temporary mount point for filesystems.
+/opt: Optional application software packages.
+/proc: Virtual filesystem for system and process information.
+/run: Contains runtime data (e.g., PID files).
+/srv: Contains data for services provided by the system.
+/sys: Virtual filesystem for kernel and device information.
+/tmp: Temporary files.
+/usr: Contains user-related programs and data (e.g., binaries, libraries).
+/var: Variable files like logs and databases.
+To summarize:
+
+/ is the base of the filesystem.
+/root is the home directory for the root user.
+The root user can access all directories, including /root, /home, and /var.
